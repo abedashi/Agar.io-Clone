@@ -1,0 +1,27 @@
+{
+  "name": "agar.io-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abedashi/Agar.io-Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abedashi/Agar.io-Clone/issues"
+  },
+  "homepage": "https://github.com/abedashi/Agar.io-Clone#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "socket.io": "^4.5.4"
+  }
+}
